@@ -29,8 +29,8 @@ This project provides REST APIs for serving hotel details from a PostgreSQL data
 
 1. Clone the repository:
     ```bash
-    https://github.com/noman1811048/react_assignment_backend
-    cd react_assignment_backend
+    https://github.com/noman62/hotelHub-backend
+    cd hotelHub-backend
     ```
 
 2. Install dependencies:
